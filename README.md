@@ -1,6 +1,13 @@
-[REFERENCES]
-1. https://medium.com/wesionary-team/getting-started-with-go-gin-framework-6943f8f5f882
-2. https://medium.com/wesionary-team/building-rest-api-in-gin-framework-8c069716113e#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImZkMjg1ZWQ0ZmViY2IxYWVhZmU3ODA0NjJiYzU2OWQyMzhjNTA2ZDkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MTI4NzY4MTgsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwNzM5MDA4NjI3NjE0NTU1NzI5NCIsImVtYWlsIjoic3VkaXBzdGhhMDhAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJTdWRpcCBTaHJlc3RoYSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHanVNZjBCTVBPSXN2anNpMXNobHZqY3JVdjMtYkpyTjlUZExNdTlFdz1zOTYtYyIsImdpdmVuX25hbWUiOiJTdWRpcCAiLCJmYW1pbHlfbmFtZSI6IlNocmVzdGhhIiwiaWF0IjoxNjEyODc3MTE4LCJleHAiOjE2MTI4ODA3MTgsImp0aSI6IjYwZjkxMjkxZjQ1MzRjYjEwYTVhZmI5YzNmYjRhOWE4ZmUwN2E5NzUifQ.JaQvhCvS7he1edPkrRTY0jBk067w2eD9JYL_45aCWyuTZOPRv34zKnVrgCYk-78AUY0_jZXeDfidDhjMIzDb8FahDFPLmcaqBp19PoJIEF1ZhLp13kkmwj2CcF1uLpPfW_CGaSaCmrbjyFMQhA_rnhr9BiDUs797VuPIoULlnSTP7hfnqRqCxn0-GrLpMl3zg5xdxT6KcmWKptJ1opJc4x74XZubsf3zIvqF_95UZ9OQ8UWLTAWISN97tLyewPx9ut0qwglaudLHfbRBNywMjWuah0dCKHKdBHCtLRwizdJoWLqRwnH9ZZwLmdh1M4oRSiGAgL5IANEfpg10fpY-5w
+## Exploring Go Lang
+
+| Commands | Description |
+| -------- | ----------- |
+| go run main.go |       |
+
+
+## REFERENCES
+1. [https://medium.com/wesionary-team/getting-started-with-go-gin-framework-6943f8f5f882]
 3. [https://github.com/gin-gonic/gin]
 4. [https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2]
 5. [https://medium.com/technofunnel/golang-object-oriented-programming-f2e6448b8f24]
+6. [https://medium.com/technofunnel/understanding-golang-and-goroutines-72ac3c9a014d]
