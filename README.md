@@ -3,7 +3,14 @@
 | Commands | Description |
 | -------- | ----------- |
 | go run main.go |       |
+| go build |       |
 
+### TECHNOLOGIES USED
+
+| Tool | Description |
+| -------- | ----------- |
+| go  |       |
+| mux  |       |
 
 ## REFERENCES
 1. [https://medium.com/wesionary-team/getting-started-with-go-gin-framework-6943f8f5f882]

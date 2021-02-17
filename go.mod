@@ -1,5 +1,5 @@
-module go
+module go-api
 
-go 1.15
+go 1.14
 
-require github.com/gin-gonic/gin v1.6.3
+require github.com/gorilla/mux v1.8.0
