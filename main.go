@@ -161,4 +161,5 @@ func main() {
 
 	// RUN SERVER AT 8000
 	log.Fatal(http.ListenAndServe(":8000", r))
+	fmt.Println("Server started at :8000")
 }
