@@ -21,4 +21,4 @@ test
 profile.out
 tmp.out
 go-api
-temp-pages
+/temp-pages
