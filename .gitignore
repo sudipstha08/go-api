@@ -21,5 +21,7 @@ test
 profile.out
 tmp.out
 go-api
+
+# Exclude everyting inside temp-images folder but not the folder
 temp-images/*
 !temp-pages/.gitkeep
