@@ -108,5 +108,5 @@ func main() {
 	r.HandleFunc("/api/books/{id}", deleteBook).Methods("DELETE")
 
 	// RUN SERVER AT 8000
-	log.Fatal(http.ListenAndServe(":8000", r))
+	log.Fatal(http.ListenAndServe(":8080", r))
 }
